@@ -9,7 +9,7 @@ public class CleanStrike {
 		CleanStrike cleanStrike = new CleanStrike();
 		System.out.println("Welcome to Clean Strike Game\r\n It is a 2 Player Game");
 		Player playerOne = new Player();
-		playerOne.setName("Palyer One");
+		playerOne.setName("Player One");
 		Player playerTwo = new Player();
 		playerTwo.setName("Player Two");
 		CarromBoard carromBoard = new CarromBoard();
