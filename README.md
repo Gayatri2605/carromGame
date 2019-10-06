@@ -1,5 +1,5 @@
-# carromGame
-A Carrom game designed in Java
+# CarromGame
+A Carrom game designed in Java (Clean Strike)
 
 # Files
 Following are the files that i used in development 
