@@ -3,6 +3,7 @@ A Carrom game designed in Java (Clean Strike)
 
 # Files
 Following are the files that i used in development 
+
 [CarromBoard.java](https://github.com/Gayatri2605/carromGame/blob/master/CleanStrike/src/com/clean/strike/CarromBoard.java "CarromBoard.java")
 >The carrom board object that has information about the board
 
