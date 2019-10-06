@@ -1,0 +1,44 @@
+Welcome to Clean Strike Game
+ It is a 2 Player Game
+Player One
+
+ Choose an outcome from the list below
+1. Strike
+2. Multi Strike
+3. Red strike
+4. Striker strike
+5. Defunct coin
+6. None
+1
+Player Two
+
+ Choose an outcome from the list below
+1. Strike
+2. Multi Strike
+3. Red strike
+4. Striker strike
+5. Defunct coin
+6. None
+2
+Player One
+
+ Choose an outcome from the list below
+1. Strike
+2. Multi Strike
+3. Red strike
+4. Striker strike
+5. Defunct coin
+6. None
+3
+Strike another coin to get red coin
+Player One
+
+ Choose an outcome from the list below
+1. Strike
+2. Multi Strike
+3. Red strike
+4. Striker strike
+5. Defunct coin
+6. None
+1
+Player One wins 5 > 2
